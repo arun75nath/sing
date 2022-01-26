@@ -1,0 +1,132 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family:  "The Nautigal script=latin rev=2";
+}
+.gouthamy {
+  width: 20%;
+  border-radius: 50%;
+  margin: 50px auto auto auto;
+}
+hr {
+border-style: dotted none none;
+border-color: white;
+border-width: 10px;
+width: 20%;
+color: black;
+}
+h1{
+
+  font-size: 8rem;
+  margin-top: 50px;
+  color: #F4F4F2;
+}
+h2 {
+  font-size: 4rem;
+  font-weight: normal;
+  font-family: 'Fira Sans', sans-serif;
+  color: #9A0680;
+}
+h3 {
+  color: #EA99D5;
+  font-size: 35px;
+}
+a {
+  color: #11999E;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+p {
+    line-height: 2;
+    color: white;
+    font-size: 25px;
+}
+.womensing {
+  height: 300px;
+  position: relative;
+  right: 200px;
+  margin-bottom: 0;
+}
+.retro{
+  height: 300px;
+  position: relative;
+  left: 200px;
+}
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+.music {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.physics {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+.facebook {
+  height: 100px;
+}
+.Passionate {
+  width: 30%;
+  margin: auto;
+}
+
+.top-conatainer {
+  background-color:  #A2D5F2;
+  position: relative;
+  padding-top: 100px;
+}
+.middle-container {
+  margin: 0;
+background-color: #0F0E0E;
+margin-bottom: 0;
+}
+.bottom-container {
+  margin-top: 0;
+  background-color: #D6E5FA;
+ padding: 20px;
+}
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+  height: 60px;
+
+}
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+  left: 900px;
+}
+.btn {
+  background: #3498db;
+  background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+  background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+  background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+  background-image: -o-linear-gradient(top, #3498db, #2980b9);
+  background-image: linear-gradient(to bottom, #3498db, #2980b9);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #b63cfc;
+  background-image: -webkit-linear-gradient(top, #b63cfc, #151024);
+  background-image: -moz-linear-gradient(top, #b63cfc, #151024);
+  background-image: -ms-linear-gradient(top, #b63cfc, #151024);
+  background-image: -o-linear-gradient(top, #b63cfc, #151024);
+  background-image: linear-gradient(to bottom, #b63cfc, #151024);
+  text-decoration: none;
+}
